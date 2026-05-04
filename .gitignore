@@ -14,4 +14,3 @@ uart0.log
 # Software build
 boot.o
 hello_world.o
-hello_world.elf
