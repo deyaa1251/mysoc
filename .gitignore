@@ -2,8 +2,6 @@
 .venv
 __pycache__/
 
-# FuseSoC build
-build/
 
 # Simuloation output
 performance_counters.csv
