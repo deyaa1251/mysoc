@@ -1,0 +1,3 @@
+Vtop_verilator___024root__DepSet_h88f5b6e0__0.o: \
+ Vtop_verilator___024root__DepSet_h88f5b6e0__0.cpp Vtop_verilator__pch.h \
+ Vtop_verilator___024root.h

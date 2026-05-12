@@ -1,0 +1,3 @@
+Vtop_verilator_uart_reg_pkg__DepSet_h54ad54a5__0__Slow.o: \
+ Vtop_verilator_uart_reg_pkg__DepSet_h54ad54a5__0__Slow.cpp \
+ Vtop_verilator__pch.h Vtop_verilator_uart_reg_pkg.h
